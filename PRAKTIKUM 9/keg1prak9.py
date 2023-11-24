@@ -1,0 +1,5 @@
+data = open("L200220045", "w")
+data.write("L200220045")
+data.write("\n14-10-2003")
+data.write("\nInandra Asha Fardhana")
+data.close()
